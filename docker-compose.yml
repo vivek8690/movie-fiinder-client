@@ -1,0 +1,12 @@
+version: '2.1'
+services:
+  web-service:
+    container_name: web-service
+    build: .
+    volumes:
+      - '.:/usr/src/app'
+    ports:
+      - '4000:4000'
+    environment:
+      - NODE_ENV=develop
+    tty: true
