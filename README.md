@@ -18,8 +18,8 @@ https://infinite-cove-67589.herokuapp.com
 ## Improvements can be done
 - Can add JWT based Authentication
 - Can add pagination on scroll 
-- Improve design 
-
+- Improve design
+- Add clear filter option
 
 ## Start Development
 ```
