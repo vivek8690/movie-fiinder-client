@@ -20,6 +20,8 @@ https://infinite-cove-67589.herokuapp.com
 - Can add pagination on scroll 
 - Improve design
 - Add clear filter option
+- Add content loader
+- Use GraphQL for data query
 
 ## Start Development
 ```
